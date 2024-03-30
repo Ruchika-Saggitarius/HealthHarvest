@@ -1,0 +1,12 @@
+<resources>
+    <string name="dialogue0">Let\'s start hydrating! \nGrab a glass of water and take a refreshing sip.</string>
+    <string name="dialogue1">Great job! \nYou\'re on your way to staying hydrated.</string>
+    <string name="dialogue2">Three glasses down, and you\'re doing fantastic! \nKeep that water intake flowing</string>
+    <string name="dialogue3">You\'re halfway there! \nFour glasses of water is an excellent achievement.</string>
+    <string name="dialogue4">Five glasses! \nYour body thanks you for staying hydrated.</string>
+    <string name="dialogue5">Five glasses! \nYour body thanks you for staying hydrated.</string>
+    <string name="dialogue6">Six glasses in! \nYou\'re really taking care of yourself now.</string>
+    <string name="dialogue7">Lucky number seven! \nStay hydrated and keep up the good work!</string>
+    <string name="dialogue8">Congratulations! You\'ve reached the daily goal of 8 glasses of water. \nYou\'re a hydration superstar!</string>
+    <string name="dialogue9">You\'re going above and beyond. \nHydration level: Expert.</string>
+</resources>
